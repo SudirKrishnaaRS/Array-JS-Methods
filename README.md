@@ -1,4 +1,4 @@
-# 2.1  Array Methods - MUST KNOW
+# Array Methods - MUST KNOW
 <aside>
 📌 Youtube Link : https://youtu.be/R8rmfD9Y5-c
 
